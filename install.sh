@@ -7,3 +7,4 @@ sudo apt install php-fpm -y
 sudo ufw allow 'Nginx Full'
 # MYSQL
 sudo apt install mysql-server -y
+sudo mysql_secure_installation
