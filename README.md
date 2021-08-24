@@ -1,4 +1,4 @@
-# ubuntu-nginx-php
+# ubuntu-nginx-mysql-php
 install
 
 [How to Install Nginx on Ubuntu 20.04 - Linuxize](https://linuxize.com/post/how-to-install-nginx-on-ubuntu-20-04/)
