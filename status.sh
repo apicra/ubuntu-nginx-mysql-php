@@ -4,3 +4,5 @@ systemctl status nginx
 systemctl status php7.4-fpm
 #firewall
 sudo ufw status
+# Filesystem
+ls -la /var/www/html/
