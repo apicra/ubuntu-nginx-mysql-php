@@ -8,3 +8,5 @@ install
 [How to Install PHP on Ubuntu 20.04 - Linuxize](https://linuxize.com/post/how-to-install-php-on-ubuntu-20-04/)
 
 [How To Install MySQL on Ubuntu 20.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+
+[How To Create User Accounts Using MySQL CREATE USER statement](https://www.mysqltutorial.org/mysql-create-user.aspx)
